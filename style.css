@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(154, 219, 228);
+}
+
+.box {
+    box-align: center;
+  width: 350px;
+  height: 220px;
+ padding-top: 15px;
+ padding-left: 10px;
+ padding-bottom: 20px;
+ padding-right: 10px;
+ margin-bottom: 30px;
+ border: 2px dashed red;
+ background-color: rgb(140, 236, 140);
+}
